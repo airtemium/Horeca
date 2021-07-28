@@ -1,0 +1,152 @@
+{
+  "6a3f52fc-8e9a-4e08-9f55-1d816dde1948" : {
+    "place_uid" : "5a493379-552d-4724-8ea9-e8880c0a72e2",
+    "type" : "RectangleEightPlaces",
+    "uid" : "6a3f52fc-8e9a-4e08-9f55-1d816dde1948",
+    "party_name" : "",
+    "params" : {
+      "number" : "9",
+      "x" : "69",
+      "height" : "64.0",
+      "y" : "495",
+      "rotation" : 0,
+      "width" : "96.0",
+      "seats" : "8"
+    }
+  },
+  "94faf1ad-567f-43f6-932b-75fbe9a2db8d" : {
+    "type" : "SquareTwoPlaces",
+    "params" : {
+      "number" : "2",
+      "x" : "148",
+      "height" : "52.0",
+      "y" : "171",
+      "rotation" : 85,
+      "width" : "52.0",
+      "seats" : "2"
+    },
+    "uid" : "94faf1ad-567f-43f6-932b-75fbe9a2db8d",
+    "party_name" : "",
+    "place_uid" : "5a493379-552d-4724-8ea9-e8880c0a72e2"
+  },
+  "108c1175-5948-47e8-83e6-f8b022bd6ac7" : {
+    "uid" : "108c1175-5948-47e8-83e6-f8b022bd6ac7",
+    "params" : {
+      "number" : "6",
+      "x" : "86",
+      "height" : "64.0",
+      "y" : "370",
+      "rotation" : 60,
+      "width" : "116.0",
+      "seats" : "8"
+    },
+    "place_uid" : "5a493379-552d-4724-8ea9-e8880c0a72e2",
+    "party_name" : "",
+    "type" : "RectangleEightPlaces2"
+  },
+  "7ddbd067-0926-4468-9764-6050e8e2c501" : {
+    "place_uid" : "5a493379-552d-4724-8ea9-e8880c0a72e2",
+    "type" : "CircleFourPlaces",
+    "params" : {
+      "number" : "4",
+      "x" : "220",
+      "height" : "68.0",
+      "y" : "427",
+      "rotation" : 73,
+      "width" : "68.0",
+      "seats" : "6"
+    },
+    "uid" : "7ddbd067-0926-4468-9764-6050e8e2c501",
+    "party_name" : ""
+  },
+  "7ddbd467-4926-4468-9764-6050e8e2c501" : {
+    "place_uid" : "5a493379-552d-4724-8ea9-e8880c0a72e2",
+    "type" : "RectangleSixPlaces",
+    "params" : {
+      "number" : "5",
+      "x" : "237",
+      "height" : "64.0",
+      "y" : "273",
+      "rotation" : 345,
+      "width" : "96.0",
+      "seats" : "6"
+    },
+    "uid" : "7ddbd467-4926-4468-9764-6050e8e2c501",
+    "party_name" : ""
+  },
+  "2ef620bd-5bfc-47ee-ac59-bdf2578cc64d" : {
+    "params" : {
+      "number" : "10",
+      "x" : "274",
+      "height" : "64.0",
+      "y" : "524",
+      "rotation" : 0,
+      "width" : "76.0",
+      "seats" : "4"
+    },
+    "party_name" : "",
+    "uid" : "2ef620bd-5bfc-47ee-ac59-bdf2578cc64d",
+    "type" : "RectangleFourPlaces",
+    "place_uid" : "5a493379-552d-4724-8ea9-e8880c0a72e2"
+  },
+  "aa52707a-9c38-4163-8efc-212dbd5de188" : {
+    "uid" : "aa52707a-9c38-4163-8efc-212dbd5de188",
+    "place_uid" : "5a493379-552d-4724-8ea9-e8880c0a72e2",
+    "params" : {
+      "number" : "3",
+      "x" : "81",
+      "height" : "68.0",
+      "y" : "237",
+      "rotation" : 0,
+      "width" : "68.0",
+      "seats" : "6"
+    },
+    "party_name" : "Lapala",
+    "type" : "CircleSixPlaces"
+  },
+  "0baf1064-b68d-41d8-93e0-dd9bade67953" : {
+    "place_uid" : "5a493379-552d-4724-8ea9-e8880c0a72e2",
+    "party_name" : "",
+    "uid" : "0baf1064-b68d-41d8-93e0-dd9bade67953",
+    "params" : {
+      "number" : "1",
+      "x" : "50",
+      "height" : "54.0",
+      "y" : "163",
+      "rotation" : 0,
+      "width" : "54.0",
+      "seats" : "2"
+    },
+    "type" : "CircleTwoPlaces"
+  },
+  "acf6f8ef-a97d-4600-9472-12b027abb355" : {
+    "uid" : "acf6f8ef-a97d-4600-9472-12b027abb355",
+    "type" : "SquareFourPlaces",
+    "params" : {
+      "number" : "8",
+      "x" : "296",
+      "height" : "64.0",
+      "y" : "386",
+      "rotation" : 330,
+      "width" : "76.0",
+      "seats" : "4"
+    },
+    "place_uid" : "5a493379-552d-4724-8ea9-e8880c0a72e2",
+    "party_name" : ""
+  },
+  "1df916cd-60b2-4772-a596-3adfadd6038a" : {
+    "type" : "CircleEightPlaces",
+    "place_uid" : "5a493379-552d-4724-8ea9-e8880c0a72e2",
+    "uid" : "1df916cd-60b2-4772-a596-3adfadd6038a",
+    "party_name" : "",
+    "params" : {
+      "number" : "7",
+      "x" : "225",
+      "height" : "64.0",
+      "y" : "122",
+      "rotation" : 0,
+      "width" : "76.0",
+      "seats" : "4"
+    }
+  }
+}
